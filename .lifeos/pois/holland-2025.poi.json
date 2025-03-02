@@ -1,4 +1,15 @@
 {
   "title": "Holland 2025",
-  "pois": []
+  "pois": [
+    {
+      "id": "3d6abb52-114b-48b5-96c0-0d3262e95560",
+      "title": "Hotel Beachhouse",
+      "description": "Boulevard Barnaart 59e, 2041 JA Zandvoort, Netherlands",
+      "search": [
+        "Boulevard Barnaart 59e",
+        "2041 JA Zandvoort",
+        "Netherlands"
+      ]
+    }
+  ]
 }
